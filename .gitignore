@@ -1,0 +1,33 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Poetry lock file (optional if you want reproducible installs)
+poetry.lock
+
+# VS Code settings
+.vscode/
+
+# Output files
+*.csv
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Python build artifacts
+*.egg-info/
+dist/
+build/
+
+# Test artifacts
+.coverage
+htmlcov/
+*.pytest_cache/
